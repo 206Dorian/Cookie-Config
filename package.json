@@ -1,0 +1,26 @@
+{
+  "name": "cookie-config",
+  "version": "1.0.0",
+  "description": "## The New Twitter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/206Dorian/Cookie-Config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/206Dorian/Cookie-Config/issues"
+  },
+  "homepage": "https://github.com/206Dorian/Cookie-Config#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "handlebars": "^4.7.7"
+  }
+}
