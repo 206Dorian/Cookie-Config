@@ -1,5 +1,5 @@
 {
-  "name": "cookie-config",
+  "name": "Cookie-Config",
   "version": "1.0.0",
   "description": "## The New Tw*tter",
   "main": "server.js",
@@ -19,8 +19,15 @@
   },
   "homepage": "https://github.com/206Dorian/Cookie-Config#readme",
   "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bluebird": "^3.7.2",
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-handlebars": "^6.0.6",
-    "handlebars": "^4.7.7"
+    "express-session": "^1.17.3",
+    "handlebars": "^4.7.7",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.26.0"
   }
 }
